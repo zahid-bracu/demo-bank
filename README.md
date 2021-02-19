@@ -1,5 +1,5 @@
 # demo-bank
- live project: https://zahid-bracu.github.io/demo-bank/
+ live project: https://demo-banking.netlify.app/
  Languages & Framework Used:
  HTML,
  CSS,
