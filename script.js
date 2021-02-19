@@ -62,26 +62,7 @@ var loginBtn=document.getElementById("loginBtn");
             }
             
 
-            // var depositField=document.getElementById('deposit').value;
-            // console.log(depositField);
-            // var value=parseFloat(depositField);
-
-
-            // var depositAmount=document.getElementById('depositAmount').innerText;
-            // depositAmount=parseFloat(depositAmount);
-            // console.log(depositAmount);
-
-            // depositAmount=depositAmount+value;
-
-            // depositAmountField=document.getElementById('depositAmount');
-            // depositAmountField.innerText=depositAmount;
-
-            // var balanceAmount=document.getElementById('balanceAmount').innerText;
-            // balanceAmount=parseFloat(balanceAmount);
-            // balanceAmount+=value;
-
-            // var balanceAmountField=document.getElementById('balanceAmount');
-            // balanceAmountField.innerText=balanceAmount;
+            
         })
 
         function update(value){
